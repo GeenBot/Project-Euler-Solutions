@@ -1,0 +1,14 @@
+{
+  "name": "5.-smallest-multiple--lcm-finder-",
+  "version": "0.0.0",
+  "description": "5. Smallest Multiple (LCM Finder)",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}
